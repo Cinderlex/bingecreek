@@ -1,0 +1,27 @@
+{
+  "private": true,
+  "name": "bingecreek",
+  "version": "0.0.1-alpha.0",
+  "description": "Self-hosted video platform",
+  "sideEffects": false,
+  "author": "Cinderlex <cinderlex@pm.me>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Cinderlex/data-layer.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Cinderlex/data-layer/issues"
+  },
+  "homepage": "https://github.com/Cinderlex/data-layer",
+  "keywords": [
+    "video",
+    "media",
+    "streaming",
+    "self-hosted"
+  ],
+  "engines": {
+    "node": "^20",
+    "pnpm": "^8"
+  }
+}
